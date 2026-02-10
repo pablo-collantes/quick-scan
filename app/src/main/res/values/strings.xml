@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SwiftScan PDF</string>
+    <string name="home_title">My Scans</string>
+    <string name="home_empty">No scans yet. Tap + to get started.</string>
+    <string name="scanner_title">Scan Document</string>
+    <string name="crop_title">Adjust Crop</string>
+    <string name="review_title">Review Pages</string>
+    <string name="merge_title">Merge PDFs</string>
+    <string name="btn_capture">Capture</string>
+    <string name="btn_retake">Retake</string>
+    <string name="btn_rotate">Rotate</string>
+    <string name="btn_done">Done</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_add_page">Add Page</string>
+    <string name="btn_merge">Merge</string>
+    <string name="btn_share">Share</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="flash_on">Flash On</string>
+    <string name="flash_off">Flash Off</string>
+    <string name="quick_scan">Quick Scan</string>
+    <string name="manual_scan">Manual Scan</string>
+    <string name="search_hint">Search scans…</string>
+    <string name="document_name_hint">Document name</string>
+    <string name="pages_count">%d pages</string>
+    <string name="permission_camera_rationale">Camera permission is required to scan documents.</string>
+    <string name="permission_denied">Permission denied. Please grant it in Settings.</string>
+    <string name="save_success">Document saved successfully.</string>
+    <string name="save_error">Failed to save document.</string>
+    <string name="merge_success">PDFs merged successfully.</string>
+    <string name="no_pages">No pages to save.</string>
+    <string name="select_pdfs">Select PDFs to merge</string>
+</resources>
