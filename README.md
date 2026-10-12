@@ -59,3 +59,7 @@ The app will request **Camera** permission on first launch. Grant it to use the 
 - **Quick Scan** — Uses Google ML Kit's built-in scanner (handles camera, cropping, and enhancement automatically)
 - **Manual Scan** — Tap the shutter button, then adjust crop corners with the magnifier for precise control
 - **Merge** — Combine multiple saved PDFs into one from the home screen merge button
+
+## License
+
+MIT — see [LICENSE](LICENSE).
